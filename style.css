@@ -62,7 +62,7 @@
     left: 0;
     right: 0;
     bottom:0;
-    background-color: rgb(255,255,255,0.2);
+    background-color: rgb(128,128,128,0.2);
     z-index: 1;
 }
 .hero-content{
@@ -206,7 +206,7 @@
     left: 0;
     right: 0;
     bottom:0;
-    background-color: rgb(255,255,255,0.3);
+    background-color: rgb(128,128,128,0.3);
     z-index: 1;
 }
 .hero-content{
