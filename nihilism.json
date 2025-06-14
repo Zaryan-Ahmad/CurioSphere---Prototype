@@ -1,0 +1,90 @@
+{
+    "pre-Requisites": {
+        "beginner": [
+            {
+                "video": {
+                    "title": "Introduction to Philosophy",
+                    "description": "An introductry course exploring the foundations of western philosophy and major life questions.",
+                    "url": "https://www.youtube.com/playlist?list=PL8dPuuaLjXtNgK6MZucdYldNkMybYIHKR"
+                },
+                "reading": {
+                    "title": "Sophies World by Jostein Gaarder",
+                    "description": "A fictional story that cleverly introduces Western philosophy from the Pre-Socratics to Sartre.",
+                    "url": "https://www.goodreads.com/book/show/10959.Sophie_s_World"
+                }
+            }
+        ],
+        "intermediate": [
+            {
+                "video": {
+                    "title": "Problems with Philosophy",
+                    "description": "Philosophy often raises more questions than answers, making it seem abstract or impractical, yet it sharpens thinking and deepens understanding.",
+                    "url": "https://www.youtube.com/playlist?list=PLI90Mls3qWhJ02zGeApjd3Rr7L-R-MqZ4"
+                },
+                "reading": {
+                    "title": "Problems with Philosophy",
+                    "description": "A brief, accessible introduction to key philosophical issues like knowledge, reality, and truth, written with clarity by one of the 20th century’s greatest thinkers.",
+                    "url": "https://www.goodreads.com/book/show/31799.The_Problems_of_Philosophy"
+                }
+            }
+        ],
+        "mature": [
+            {
+                "video": {
+                    "title": "https://youtu.be/6bJk00UM_9o?si=4uK0y_oYbgoIOzOu",
+                    "description": "This podcast covers philosophy particularly nihilism in some depth.",
+                    "url": "https://youtu.be/6bJk00UM_9o?si=U27Ld35xG9udTTbN"
+                },
+                "reading": {
+                    "title": "The Birth of Tragedy by Friedrich Nietzsche",
+                    "description": "It lays the groundwork for Nietzsche's later ideas on nihilism by exploring the conflict between rationality (Apollo) and chaos/passion (Dionysus).",
+                    "url": "https://www.goodreads.com/book/show/2823.The_Birth_of_Tragedy"
+                }
+            }
+        ]
+    },
+    "mainCourse": {
+        "beginner": [
+            {
+                "video": {
+                    "title": "The most dangerous idea",
+                    "description": "Explanation of nihilism",
+                    "url": "https://youtu.be/NmeNwrNvbog?si=NxNZF2XByKx79UdM"
+                },
+                "reading": {
+                    "title": "Reality of Nihilism",
+                    "description": "Offers a stark, raw take on nihilism as a worldview.No sugar-coating—presents nihilism as brutal clarity, not despair.",
+                    "url": "https://www.goodreads.com/book/show/31523011-nihilism"
+                }
+            }
+        ],
+        "intermediate": [
+            {
+                "video": {
+                    "title": "The way out",
+                    "description": "Nihilism sees life as meaningless—but the way out is to create meaning through purpose, values, and self-overcoming. The void becomes a beginning, not the end.",
+                    "url": "https://youtu.be/k8UTMl3BK80?si=Wi88MdCm2PB4WnfK"
+                },
+                "reading": {
+                    "title": "How to solve ? One perspective.",
+                    "description": "This book explores the global rise of nihilism—the feeling that life is meaningless—and its link to depression and suicide. It diagnoses the root causes and effects of this crisis, and presents Islam as a step-by-step remedy, offering purpose, meaning, and a clear path to spiritual healing through monotheism.",
+                    "url": "https://www.sapienceinstitute.org/islam-nihilism/"
+                }
+            }
+        ],
+        "mature": [
+            {
+                "video": {
+                    "title": "Sean Kelly explaining Nihilism and opposite",
+                    "description": "Thoughtful, philosophical exploration of how existentialist thought grapples with nihilism.",
+                    "url": "https://youtu.be/cC1HszE5Hcw?si=Bxqe7EABhj5c5uET"
+                },
+                "reading": {
+                    "title": "The Self-Overcoming of Nihilism",
+                    "description": "Overcoming nihilism requires not returning to traditional religion, nor inventing artificial meaning—but entering a state of non-dual awareness that sees emptiness as fullness.",
+                    "url": "https://www.goodreads.com/book/show/535705.The_Self_Overcoming_of_Nihilism"
+                }
+            }
+        ]
+    }
+}
